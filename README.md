@@ -1,4 +1,7 @@
-Fraud Transaction Detection using Credit Card DataThis project focuses on detecting fraudulent credit card transactions using machine learning. 
+Fraud Transaction Detection using Credit Card Data
+
+
+This project focuses on detecting fraudulent credit card transactions using machine learning. 
 Key features include:
 Data Preprocessing: Cleaned the dataset and handled class imbalance to improve model performance.
 Modeling: Implemented a Logistic Regression classifier to identify fraud patterns.
